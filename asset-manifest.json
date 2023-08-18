@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kamjac.github.io/static/css/main.e6c13ad2.css",
+    "main.js": "/kamjac.github.io/static/js/main.c3b2b956.js",
+    "static/js/787.f7a142a8.chunk.js": "/kamjac.github.io/static/js/787.f7a142a8.chunk.js",
+    "index.html": "/kamjac.github.io/index.html",
+    "main.e6c13ad2.css.map": "/kamjac.github.io/static/css/main.e6c13ad2.css.map",
+    "main.c3b2b956.js.map": "/kamjac.github.io/static/js/main.c3b2b956.js.map",
+    "787.f7a142a8.chunk.js.map": "/kamjac.github.io/static/js/787.f7a142a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c3b2b956.js"
+  ]
+}
