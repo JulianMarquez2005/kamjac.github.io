@@ -1,0 +1,40 @@
+.main-btn, .orange-btn, .outline-btn {
+    display: inline-block;
+    padding: 10px 35px;
+    margin: 3px;
+    border: 2px solid transparent;
+    border-radius: 3px;
+    -webkit-transition: 0.2s opacity;
+    transition: 0.2s opacity;
+    outline: none;
+}
+
+.main-btn {
+    background:linear-gradient(to bottom right,#464646,#343435);
+    color: #fff;
+    border: none;
+    outline: none;
+}
+
+.orange-btn {
+    background:linear-gradient(to bottom right,#464646,#343435);
+    color: #fff !important;
+    border: none;
+}
+
+.outline-btn {
+    background: transparent;
+    color: #343435 !important;
+    border-color: #343435;
+}
+
+.main-btn:hover, .outline-btn:hover {
+    background: linear-gradient(to bottom right, #F7B033, #F18B2D);
+    color: #464646;
+    box-shadow: #c0c0c0 0px 3px 70px 1px;
+}
+
+.orange-btn:hover {
+    background: linear-gradient(-45deg,#F18B2D,#F7B033);
+    box-shadow: #464646 0px 1px 50px 5px;
+}
